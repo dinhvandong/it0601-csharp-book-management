@@ -1,0 +1,7 @@
+C:\FPT\2024 SP\T6184902-Applied Programming and Design Principles\Project\BookManagement\BookManagement\bin\Debug\BookManagement.exe.config
+C:\FPT\2024 SP\T6184902-Applied Programming and Design Principles\Project\BookManagement\BookManagement\bin\Debug\BookManagement.exe
+C:\FPT\2024 SP\T6184902-Applied Programming and Design Principles\Project\BookManagement\BookManagement\bin\Debug\BookManagement.pdb
+C:\FPT\2024 SP\T6184902-Applied Programming and Design Principles\Project\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.AssemblyReference.cache
+C:\FPT\2024 SP\T6184902-Applied Programming and Design Principles\Project\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.CoreCompileInputs.cache
+C:\FPT\2024 SP\T6184902-Applied Programming and Design Principles\Project\BookManagement\BookManagement\obj\Debug\BookManagement.exe
+C:\FPT\2024 SP\T6184902-Applied Programming and Design Principles\Project\BookManagement\BookManagement\obj\Debug\BookManagement.pdb
